@@ -1,0 +1,16 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "just for homework",
+  "main": "proj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "module": "^1.2.5",
+    "util": "^0.12.5"
+  }
+}

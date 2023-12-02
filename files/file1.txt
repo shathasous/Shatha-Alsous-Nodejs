@@ -1,0 +1,160 @@
+
+
+
+Shatha AlSous
+sousshatha@gmail.com
+
+Back End_ SD1023
+
+Course
+
+Curriculum
+
+Calendar
+
+Progress
+
+Week 4
+Nov 25, 2023 08:00 - Dec 03, 2023 20:00 (IST)
+
+
+🎯
+Week 4 Overview
+
+
+📆
+Weekly Calendar
+
+
+👀
+Pulse Check in
+
+
+👥
+1:1 with your Trainer
+
+
+⌛
+Assignment
+
+
+✋
+Intro to Backend / Server-side
+
+📚
+Intro to NodeJS: Pros & Cons
+
+🎯
+Create a simple NodeJS server
+
+🔭
+NodeJS Modules
+
+
+🔎
+NPM Registry
+
+📇
+File module
+
+🌏
+Time to Practice LeetCode
+
+
+🍭
+NodeJS Project
+
+📝
+Submit your NodeJS Project
+
+➕
+Additional resources
+
+
+Week 5
+Dec 02, 2023 08:00 - Dec 10, 2023 20:00 (IST)
+
+
+Week 6
+Dec 09, 2023 08:00 - Dec 17, 2023 20:00 (IST)
+
+
+
+Week 7
+Dec 16, 2023 08:00 - Dec 24, 2023 20:00 (IST)
+
+
+
+Week 8
+Dec 23, 2023 08:00 - Dec 31, 2023 20:00 (IST)
+
+
+
+Week 9
+Dec 30, 2023 08:00 - Jan 07, 2024 20:00 (IST)
+
+
+
+Week 10
+Jan 06, 2024 08:00 - Jan 14, 2024 20:00 (IST)
+
+
+
+Week 11
+Jan 13, 2024 08:00 - Jan 21, 2024 21:00 (IST)
+
+
+
+Week 12
+Jan 20, 2024 08:00 - Jan 28, 2024 20:00 (IST)
+
+
+🍭
+NodeJS Project
+This is your FIRST project as a backend developer 🤩 
+
+Week 4 - Project
+Description
+Create a Node.js program that reads a list of file paths from a configuration file and processes each file asynchronously. The processing involves counting the number of words in each file and displaying the results.
+Background
+This project covers the following topics:
+Node.js project creation
+NPM package manager
+Async programming
+JSON parsing
+Some node native packages
+Setup
+Create a new directory for your project and navigate to it in your terminal.
+Initialize a Node.js project by running: npm init -y.
+Create a files directory and place some text files in it that you will use for testing.
+Use npm to install any needed package(s) that would support your logic.
+Configuration
+Create a config.json file in the project directory to store the list of file paths to be processed. Example content:
+
+{
+  "files": [
+    "files/file1.txt",
+    "files/file2.txt",
+    "files/file3.txt"
+  ]
+}
+Code Flow
+Your code should be written in a file called index.js
+Run your program using node index.js
+Later on, check how to use nodemon and run your code using nodemon index.js
+Expected Output
+
+files/file1.txt: 75 words
+files/file2.txt: 103 words
+files/file3.txt: 42 words
+Testing
+Your code should handle the following
+Empty files
+Files with special characters
+Files that do not exist
+You are always encouraged to check external resources to check how such cases are handled.
+Coding Style
+Make sure your code includes the following
+Clean coding with proper readability
+Proper comments and documentation
+Your code should implemented in JavaScript.
